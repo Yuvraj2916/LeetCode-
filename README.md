@@ -10,9 +10,18 @@ Solutions
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Yuvraj2916/LeetCode-/tree/master/0014-longest-common-prefix) |
 | [1929-concatenation-of-array](https://github.com/Yuvraj2916/LeetCode-/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Yuvraj2916/LeetCode-/tree/master/1929-concatenation-of-array) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Yuvraj2916/LeetCode-/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Yuvraj2916/LeetCode-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
