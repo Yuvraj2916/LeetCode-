@@ -10,6 +10,7 @@ Solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Yuvraj2916/LeetCode-/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Yuvraj2916/LeetCode-/tree/master/0014-longest-common-prefix) |
 | [1929-concatenation-of-array](https://github.com/Yuvraj2916/LeetCode-/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -24,4 +25,8 @@ Solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Yuvraj2916/LeetCode-/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Yuvraj2916/LeetCode-/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
