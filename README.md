@@ -20,6 +20,7 @@ Solutions
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Yuvraj2916/LeetCode-/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Yuvraj2916/LeetCode-/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
