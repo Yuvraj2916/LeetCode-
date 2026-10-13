@@ -14,6 +14,7 @@ Solutions
 | [0001-two-sum](https://github.com/Yuvraj2916/LeetCode-/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Yuvraj2916/LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Yuvraj2916/LeetCode-/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Yuvraj2916/LeetCode-/tree/master/0035-search-insert-position) |
 | [1929-concatenation-of-array](https://github.com/Yuvraj2916/LeetCode-/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -48,4 +49,8 @@ Solutions
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Yuvraj2916/LeetCode-/tree/master/0027-remove-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Yuvraj2916/LeetCode-/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
