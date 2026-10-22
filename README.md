@@ -26,6 +26,7 @@ Solutions
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Yuvraj2916/LeetCode-/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Yuvraj2916/LeetCode-/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Yuvraj2916/LeetCode-/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Yuvraj2916/LeetCode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Yuvraj2916/LeetCode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Yuvraj2916/LeetCode-/tree/master/0014-longest-common-prefix) |
@@ -74,4 +75,12 @@ Solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yuvraj2916/LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Yuvraj2916/LeetCode-/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Yuvraj2916/LeetCode-/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
